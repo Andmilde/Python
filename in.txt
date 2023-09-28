@@ -1,0 +1,10 @@
+Please Enter what you wanna say.
+Here is my TTS maker.
+Welcome to use it for FREE!!!
+Ah~Ha!
+you manipulate the in.txt using ANSI encoding 
+and you run the in.exe or in.py
+finally you'll get a in.lrc file
+you can record sound during the generation with audio-clipper
+
+once you generate a lrc file, do remove it.
